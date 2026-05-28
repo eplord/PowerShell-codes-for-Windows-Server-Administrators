@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-05-27T03:25:07Z",
+  "generatedAtUtc": "2026-05-28T03:27:00Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -58,6 +58,9 @@
     },
     "PwshHub": {
       "PowerShell": 804989
+    },
+    "PSEasyOpenSSH": {
+      "PowerShell": 12880
     },
     "Prerome": {
       "JavaScript": 93353
