@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-06-12T03:25:21Z",
+  "generatedAtUtc": "2026-06-13T11:02:08Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -122,6 +122,12 @@
     "DockerVPN": {
       "Shell": 1081,
       "Python": 528
+    },
+    "CooterSnake": {
+      "Python": 862598,
+      "PowerShell": 5117,
+      "Batchfile": 4683,
+      "Shell": 1017
     },
     "Chrome-Downloader": {
       "PowerShell": 11680
