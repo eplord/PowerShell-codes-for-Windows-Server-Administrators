@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-06-15T18:51:02Z",
+  "generatedAtUtc": "2026-06-16T18:42:33Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -79,7 +79,7 @@
       "Batchfile": 379
     },
     "PowerShell-Home": {
-      "PowerShell": 275680
+      "PowerShell": 364700
     },
     "png-files": {},
     "Package-Manager": {},
@@ -124,9 +124,9 @@
       "Python": 528
     },
     "CooterSnake": {
-      "Python": 862598,
-      "PowerShell": 5117,
-      "Batchfile": 4683,
+      "Python": 1501627,
+      "Batchfile": 4698,
+      "PowerShell": 4307,
       "Shell": 1017
     },
     "Chrome-Downloader": {

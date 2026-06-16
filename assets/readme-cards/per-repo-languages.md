@@ -1,6 +1,6 @@
 # Per-repo Language Breakdown (GitHub Linguist)
 
-- Generated (UTC): 2026-06-15T18:51:02Z
+- Generated (UTC): 2026-06-16T18:42:33Z
 - User: eplord
 
 ## Win11-Customizer-Suite
@@ -11,9 +11,9 @@
 - Batchfile: 5096 bytes (0.1%)
 
 ## CooterSnake
-- Python: 862598 bytes (98.8%)
-- PowerShell: 5117 bytes (0.6%)
-- Batchfile: 4683 bytes (0.5%)
+- Python: 1501627 bytes (99.3%)
+- Batchfile: 4698 bytes (0.3%)
+- PowerShell: 4307 bytes (0.3%)
 - Shell: 1017 bytes (0.1%)
 
 ## PwshHub
@@ -22,15 +22,15 @@
 ## Active-Directory
 - PowerShell: 375170 bytes (100.0%)
 
+## PowerShell-Home
+- PowerShell: 364700 bytes (100.0%)
+
 ## Boatable
 - HTML: 271480 bytes (87.4%)
 - TypeScript: 18307 bytes (5.9%)
 - Python: 18000 bytes (5.8%)
 - JavaScript: 1889 bytes (0.6%)
 - Dockerfile: 1019 bytes (0.3%)
-
-## PowerShell-Home
-- PowerShell: 275680 bytes (100.0%)
 
 ## PowerShellScripts
 - PowerShell: 159814 bytes (100.0%)
