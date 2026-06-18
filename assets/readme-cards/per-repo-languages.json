@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-06-17T14:30:26Z",
+  "generatedAtUtc": "2026-06-18T13:53:35Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -98,6 +98,9 @@
       "HTML": 490
     },
     "icons-minimalist-2211": {},
+    "HandyScript": {
+      "PowerShell": 10791
+    },
     "Fresh-Script-Lite": {
       "PowerShell": 93481,
       "Batchfile": 443
@@ -123,11 +126,10 @@
       "Shell": 1081,
       "Python": 528
     },
-    "CooterSnake": {
-      "Python": 1636865,
+    "CooterSnake.old": {
+      "Python": 1381394,
       "Batchfile": 6979,
-      "PowerShell": 4307,
-      "Shell": 1017
+      "PowerShell": 4307
     },
     "Chrome-Downloader": {
       "PowerShell": 11680

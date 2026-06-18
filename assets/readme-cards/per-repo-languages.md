@@ -1,6 +1,6 @@
 # Per-repo Language Breakdown (GitHub Linguist)
 
-- Generated (UTC): 2026-06-17T14:30:26Z
+- Generated (UTC): 2026-06-18T13:53:35Z
 - User: eplord
 
 ## Win11-Customizer-Suite
@@ -10,11 +10,10 @@
 - Shell: 7548 bytes (0.2%)
 - Batchfile: 5096 bytes (0.1%)
 
-## CooterSnake
-- Python: 1636865 bytes (99.3%)
-- Batchfile: 6979 bytes (0.4%)
+## CooterSnake.old
+- Python: 1381394 bytes (99.2%)
+- Batchfile: 6979 bytes (0.5%)
 - PowerShell: 4307 bytes (0.3%)
-- Shell: 1017 bytes (0.1%)
 
 ## PwshHub
 - PowerShell: 804989 bytes (100.0%)
