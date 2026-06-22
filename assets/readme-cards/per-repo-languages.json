@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-06-21T11:58:45Z",
+  "generatedAtUtc": "2026-06-22T18:16:41Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -130,10 +130,6 @@
       "Python": 1381394,
       "Batchfile": 6979,
       "PowerShell": 4307
-    },
-    "CooterSnake": {
-      "Python": 887604,
-      "PowerShell": 7339
     },
     "Chrome-Downloader": {
       "PowerShell": 11680
