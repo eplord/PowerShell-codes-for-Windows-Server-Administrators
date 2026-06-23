@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-06-22T18:16:41Z",
+  "generatedAtUtc": "2026-06-23T12:25:27Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -11,14 +11,6 @@
     "WindowsTweaks-emadadel4": {
       "Batchfile": 43555,
       "PowerShell": 11226
-    },
-    "Windows.Tweaks.OS": {
-      "HTML": 14544,
-      "Batchfile": 14366,
-      "PowerShell": 1745
-    },
-    "windows-setup-script-melvinquick": {
-      "PowerShell": 8929
     },
     "windows-cleanup-helper-melvinquick": {
       "PowerShell": 31879
@@ -62,14 +54,8 @@
     "PSEasyOpenSSH": {
       "PowerShell": 12880
     },
-    "Prerome": {
-      "JavaScript": 93353
-    },
     "Powershell_Scripts-46137": {
       "PowerShell": 148830
-    },
-    "PowerShellScripts": {
-      "PowerShell": 159814
     },
     "Powershell-Scripts-brun0albuquerque": {
       "PowerShell": 21927
@@ -84,11 +70,6 @@
     "png-files": {},
     "Package-Manager": {},
     "NL.dll.zip": {},
-    "new-project": {
-      "TypeScript": 22038,
-      "JavaScript": 3845,
-      "Dockerfile": 556
-    },
     "lia": {
       "TypeScript": 97945,
       "PowerShell": 20024,
@@ -97,19 +78,9 @@
       "Dockerfile": 1121,
       "HTML": 490
     },
-    "icons-minimalist-2211": {},
-    "HandyScript": {
-      "PowerShell": 10791
-    },
     "Fresh-Script-Lite": {
       "PowerShell": 93481,
       "Batchfile": 443
-    },
-    "eplord": {
-      "JavaScript": 2771,
-      "Python": 2192,
-      "CSS": 2080,
-      "HTML": 1510
     },
     "dotfiles-windows-alec-hs": {
       "PowerShell": 8891,
@@ -126,29 +97,8 @@
       "Shell": 1081,
       "Python": 528
     },
-    "CooterSnake.old": {
-      "Python": 1381394,
-      "Batchfile": 6979,
-      "PowerShell": 4307
-    },
     "Chrome-Downloader": {
       "PowerShell": 11680
-    },
-    "boatable-assistant": {
-      "Shell": 24532,
-      "JavaScript": 18228,
-      "TypeScript": 2616
-    },
-    "Boatable": {
-      "HTML": 271480,
-      "TypeScript": 18307,
-      "Python": 18000,
-      "JavaScript": 1889,
-      "Dockerfile": 1019,
-      "CSS": 59
-    },
-    "aptall": {
-      "Shell": 31284
     },
     "admin-scripting-Johnpepsi": {
       "PowerShell": 9624,
