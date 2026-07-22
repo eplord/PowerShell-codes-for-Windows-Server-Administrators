@@ -1,6 +1,6 @@
 # Per-repo Language Breakdown (GitHub Linguist)
 
-- Generated (UTC): 2026-07-21T10:35:08Z
+- Generated (UTC): 2026-07-22T10:36:01Z
 - User: eplord
 
 ## Win11-Customizer-Suite
@@ -18,6 +18,9 @@
 
 ## PowerShell-Home
 - PowerShell: 364700 bytes (100.0%)
+
+## my-shell-environment-nikolai2038
+- Shell: 170417 bytes (100.0%)
 
 ## Powershell_Scripts-46137
 - PowerShell: 148830 bytes (100.0%)
@@ -40,7 +43,3 @@
 ## WindowsTweaks-emadadel4
 - Batchfile: 43555 bytes (79.5%)
 - PowerShell: 11226 bytes (20.5%)
-
-## dotfiles-mki77
-- Batchfile: 28756 bytes (52.7%)
-- PowerShell: 25771 bytes (47.3%)

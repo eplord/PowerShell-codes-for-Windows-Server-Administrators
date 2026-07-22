@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-07-21T10:35:08Z",
+  "generatedAtUtc": "2026-07-22T10:36:01Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -70,6 +70,9 @@
     "png-files": {},
     "Package-Manager": {},
     "NL.dll.zip": {},
+    "my-shell-environment-nikolai2038": {
+      "Shell": 170417
+    },
     "lia": {
       "TypeScript": 97945,
       "PowerShell": 20024,
