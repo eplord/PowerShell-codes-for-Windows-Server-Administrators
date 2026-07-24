@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-07-23T10:37:19Z",
+  "generatedAtUtc": "2026-07-24T10:30:07Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -40,6 +40,16 @@
     "toolbox-beaulieukevin": {
       "PowerShell": 72657,
       "Batchfile": 389
+    },
+    "ShellScript-unstable-code": {
+      "Shell": 146967,
+      "JavaScript": 41210,
+      "PowerShell": 9667,
+      "Lua": 5533,
+      "AutoHotkey": 4189,
+      "Dockerfile": 3359,
+      "Julia": 2721,
+      "Batchfile": 1417
     },
     "setup-windows-vzrenggamani": {
       "PowerShell": 31801
