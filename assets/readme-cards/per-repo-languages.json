@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-07-29T11:10:41Z",
+  "generatedAtUtc": "2026-07-30T10:36:26Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -14,6 +14,9 @@
     },
     "windows-cleanup-helper-melvinquick": {
       "PowerShell": 31879
+    },
+    "windows-11-setup-alec-hs": {
+      "PowerShell": 29784
     },
     "Windows-11-DISM-Scripts": {
       "Batchfile": 28013,
