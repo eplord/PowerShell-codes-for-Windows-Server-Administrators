@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-08-15T04:05:24Z",
+  "generatedAtUtc": "2026-08-16T04:20:07Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -93,6 +93,14 @@
       "CSS": 1779,
       "Dockerfile": 1121,
       "HTML": 490
+    },
+    "HaleTom-dotfiles": {
+      "Shell": 145727,
+      "Python": 60076,
+      "Lua": 5262,
+      "Scheme": 3807,
+      "MATLAB": 335,
+      "Ruby": 334
     },
     "Fresh-Script-Lite": {
       "PowerShell": 93481,

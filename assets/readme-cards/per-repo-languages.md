@@ -1,6 +1,6 @@
 # Per-repo Language Breakdown (GitHub Linguist)
 
-- Generated (UTC): 2026-08-15T04:05:24Z
+- Generated (UTC): 2026-08-16T04:20:07Z
 - User: eplord
 
 ## Win11-Customizer-Suite
@@ -18,6 +18,13 @@
 
 ## PowerShell-Home
 - PowerShell: 364700 bytes (100.0%)
+
+## HaleTom-dotfiles
+- Shell: 145727 bytes (67.6%)
+- Python: 60076 bytes (27.9%)
+- Lua: 5262 bytes (2.4%)
+- Scheme: 3807 bytes (1.8%)
+- MATLAB: 335 bytes (0.2%)
 
 ## ShellScript-unstable-code
 - Shell: 146967 bytes (68.3%)
@@ -42,7 +49,3 @@
 ## Fresh-Script-Lite
 - PowerShell: 93481 bytes (99.5%)
 - Batchfile: 443 bytes (0.5%)
-
-## toolbox-beaulieukevin
-- PowerShell: 72657 bytes (99.5%)
-- Batchfile: 389 bytes (0.5%)
