@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-08-26T04:24:39Z",
+  "generatedAtUtc": "2026-08-28T07:05:47Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -116,6 +116,13 @@
     },
     "dotfiles-matimortari": {
       "PowerShell": 4387
+    },
+    "dotfiles-IrishBruse": {
+      "Shell": 13355,
+      "TypeScript": 9126,
+      "CSS": 7553,
+      "Lua": 5156,
+      "JavaScript": 689
     },
     "DockerVPN": {
       "Shell": 1081,
