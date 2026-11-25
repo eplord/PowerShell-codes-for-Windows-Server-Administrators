@@ -1,6 +1,6 @@
 # Per-repo Language Breakdown (GitHub Linguist)
 
-- Generated (UTC): 2026-11-24T02:57:42Z
+- Generated (UTC): 2026-11-25T03:00:51Z
 - User: eplord
 
 ## Win11-Customizer-Suite
@@ -18,6 +18,11 @@
 
 ## PowerShell-Home
 - PowerShell: 364700 bytes (100.0%)
+
+## RandomPythonTools
+- Python: 330128 bytes (98.2%)
+- JavaScript: 4859 bytes (1.4%)
+- Shell: 1247 bytes (0.4%)
 
 ## HaleTom-dotfiles
 - Shell: 145727 bytes (67.6%)
@@ -45,7 +50,3 @@
 - JavaScript: 3804 bytes (3.0%)
 - CSS: 1779 bytes (1.4%)
 - Dockerfile: 1121 bytes (0.9%)
-
-## Fresh-Script-Lite
-- PowerShell: 93481 bytes (99.5%)
-- Batchfile: 443 bytes (0.5%)

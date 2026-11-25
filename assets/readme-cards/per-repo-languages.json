@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-11-24T02:57:42Z",
+  "generatedAtUtc": "2026-11-25T03:00:51Z",
   "user": "eplord",
   "method": "github-linguist-bytes",
   "excludedRepos": [],
@@ -63,6 +63,11 @@
     "Setup-Script-A10-C2": {
       "PowerShell": 4550,
       "Batchfile": 67
+    },
+    "RandomPythonTools": {
+      "Python": 330128,
+      "JavaScript": 4859,
+      "Shell": 1247
     },
     "PwshHub": {
       "PowerShell": 804989
